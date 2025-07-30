@@ -72,3 +72,15 @@ The dataset includes information on over 500,000 patients and features such as:
 
 ---
 
+## 🚀 Getting Started
+
+### 🔧 Installation
+
+Clone the repository and set up the environment:
+
+```bash
+git clone https://github.com/Harshavarthanan-ctrl/COVID_19_Mortality_Risk_Prediction.git
+cd COVID_19_Mortality_Risk_Prediction
+pip install -r requirements.txt
+
+
